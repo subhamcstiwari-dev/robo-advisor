@@ -1,0 +1,4 @@
+export const CONFIG = {
+  DECIMAL_PRECISION: 3,
+  DEFAULT_PRICE: 100
+};
